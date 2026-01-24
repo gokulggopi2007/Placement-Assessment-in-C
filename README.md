@@ -16,3 +16,8 @@ Placement Assessment-3:
 Q1.write a C program to check whether a given number is a Neon number or not.
 Q2.Write a C program to find and print the missing number in a array.
 Q3.Write a C program to reverse the order of words in a sentence without reversing the characters of each word.
+
+Placement Assessment-3:
+Q1.write a C program to find the difference between the maximum and minimum elements in the array.
+Q2.write a C program to compute the sum of its digits and check if that sum is a palindrome.
+Q3.write a C program to print the values of 4th,5th,and 6th terms of n separated by spaces.
