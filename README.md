@@ -1,5 +1,3 @@
-# Placement-Assessment-in-C
-
 Placement Assessment-1:
 Q1.ASCII Value.
 Q2.Check The Number is Positive,Negative or Zero.
@@ -21,3 +19,9 @@ Placement Assessment-4:
 Q1.write a C program to find the difference between the maximum and minimum elements in the array.
 Q2.write a C program to compute the sum of its digits and check if that sum is a palindrome.
 Q3.write a C program to print the values of 4th,5th,and 6th terms of n separated by spaces.
+
+Placement Assessment-5:
+Q1.write a C program to find the sum of even elements in array.
+Q2.write a C program to find the Second maximum elements in array.
+Q3.write a C program to move all negative numbers to the beginning in a array.
+
